@@ -12,13 +12,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.3",
-        "hyperf/json-rpc": "^2.2",
-        "hyperf/rpc-server": "^2.2",
-        "hyperf/rpc-client": "^2.2",
-        "hyperf/rpc-multiplex": "^2.2",
-        "symfony/serializer": "^5.4",
-        "symfony/property-access": "^5.4"
+        "php": ">=7.3"
     },
     "autoload": {
         "psr-4": {
