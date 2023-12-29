@@ -1,0 +1,28 @@
+{
+    "name": "cjr123/dictd_rpc_interface",
+    "description": "前置机接口微服务公用接口、类",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "cuijingrui",
+            "email": "382690498@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "hyperf/json-rpc": "^2.2",
+        "hyperf/rpc-server": "^2.2",
+        "hyperf/rpc-client": "^2.2",
+        "hyperf/rpc-multiplex": "^2.2",
+        "symfony/serializer": "^5.4",
+        "symfony/property-access": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yyk\\Dictd\\": "src"
+        }
+    }
+}
