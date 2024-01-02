@@ -17,7 +17,7 @@ class BaseReport
     public $imageReportText;    //影像所见
     public $diagnosis;  //诊断结果
     public $impression; //意见建议
-    public $checkResult;    //检查结果（阴阳性）1阴 2阳
+    public int $checkResult;    //检查结果（阴阳性）1阴 2阳
     public $reportTime; //报告书写时间
 
 }
