@@ -13,6 +13,7 @@ class BaseReport
     public $writeDoctorName;    //报告书写医生名称
     public $confirmDoctorCode;  //审核医生编码
     public $confirmDoctorName;  //审核医生名称
+    public $review_date;    //报告审核时间 Y-m-d H:i:s
     public $imageReportText;    //影像所见
     public $diagnosis;  //诊断结果
     public $impression; //意见建议

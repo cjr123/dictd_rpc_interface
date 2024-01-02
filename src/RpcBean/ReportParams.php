@@ -38,7 +38,6 @@ class ReportParams extends BaseReport
     public $scan_type;  //影像扫描类型
     public $img_print_date; //影像打印时间 Y-m-d H:i:s
     public $report_print_date;  //报告打印时间 Y-m-d H:i:s
-    public $review_date;    //报告审核时间 Y-m-d H:i:s
     public $study_uid_hospital; //医院原始studyUid
     public $province_code;  //省统一编码
     public $province_code_bodypart; //省统一部位编码
