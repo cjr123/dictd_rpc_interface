@@ -1,6 +1,6 @@
 <?php
 
-namespace Yyk\Dictc\RpcResult;
+namespace YykRpc\RpcResult;
 
 class ResultService
 {

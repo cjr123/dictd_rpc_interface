@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67ce48e9-e83f-4f72-a5c9-f51feeb45eaa" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictd_rpc_interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictd_rpc_interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -47,51 +48,6 @@
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
-      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
-      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
-      <path value="$PROJECT_DIR$/vendor/psr/container" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/utils" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/rpc" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/macroable" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/load-balancer" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/json-rpc" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/http-message" />
-      <path value="$PROJECT_DIR$/vendor/markrogoyski/math-php" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/engine" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/contract" />
-      <path value="$PROJECT_DIR$/vendor/laminas/laminas-stdlib" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/context" />
-      <path value="$PROJECT_DIR$/vendor/laminas/laminas-mime" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/rpc-server" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/http-server" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/exception-handler" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/server" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/dispatcher" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/event" />
-      <path value="$PROJECT_DIR$/vendor/psr/http-server-handler" />
-      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
-      <path value="$PROJECT_DIR$/vendor/psr/http-server-middleware" />
-      <path value="$PROJECT_DIR$/vendor/psr/log" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
-      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
-      <path value="$PROJECT_DIR$/vendor/symfony/console" />
-      <path value="$PROJECT_DIR$/vendor/nikic/fast-route" />
-      <path value="$PROJECT_DIR$/vendor/symfony/string" />
-      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/rpc-client" />
-      <path value="$PROJECT_DIR$/vendor/fig/http-message-util" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/framework" />
-      <path value="$PROJECT_DIR$/vendor/hyperf/rpc-multiplex" />
-      <path value="$PROJECT_DIR$/vendor/multiplex/socket" />
-      <path value="$PROJECT_DIR$/vendor/multiplex/multiplex" />
-      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
-      <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
-      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
     </include_path>
   </component>
   <component name="ProjectId" id="2aCmsNIA6AOKIHYR1xOhG4viRcX" />
@@ -102,16 +58,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/work/api/component/dictd_rpc_interface",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/work/api/component/dictd_rpc_interface&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -121,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703831140382</updated>
       <workItem from="1703831141726" duration="4550000" />
+      <workItem from="1703840412014" duration="502000" />
     </task>
     <servers />
   </component>

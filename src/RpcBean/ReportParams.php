@@ -1,6 +1,6 @@
 <?php
 
-namespace Yyk\Dictc\RpcBean;
+namespace YykRpc\RpcBean;
 
 class ReportParams extends BaseReport
 {

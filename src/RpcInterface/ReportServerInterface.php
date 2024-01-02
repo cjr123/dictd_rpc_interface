@@ -1,10 +1,10 @@
 <?php
 
-namespace Yyk\Dictc\RpcInterface;
+namespace YykRpc\RpcInterface;
 
 
-use Yyk\Dictc\RpcBean\BaseReport;
-use Yyk\Dictc\RpcResult\RpcResult;
+use YykRpc\RpcBean\BaseReport;
+use YykRpc\RpcResult\RpcResult;
 
 interface ReportServerInterface
 {
